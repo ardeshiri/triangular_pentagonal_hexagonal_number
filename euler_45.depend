@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624190356 source:/home/arash/Code/codeblocks/euler_45/main.cpp
+	<iostream>
+	<algorithm>
+	<ranges>
+	<cmath>
+	<tuple>
+
